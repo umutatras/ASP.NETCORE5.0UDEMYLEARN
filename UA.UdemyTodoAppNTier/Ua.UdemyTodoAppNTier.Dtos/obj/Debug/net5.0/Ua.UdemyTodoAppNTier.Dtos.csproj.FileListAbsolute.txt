@@ -1,0 +1,12 @@
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\bin\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.deps.json
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\bin\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.dll
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\bin\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.pdb
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.csproj.AssemblyReference.cache
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.AssemblyInfoInputs.cache
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.AssemblyInfo.cs
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.dll
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\refint\Ua.UdemyTodoAppNTier.Dtos.dll
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Dtos.pdb
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Dtos\obj\Debug\net5.0\ref\Ua.UdemyTodoAppNTier.Dtos.dll

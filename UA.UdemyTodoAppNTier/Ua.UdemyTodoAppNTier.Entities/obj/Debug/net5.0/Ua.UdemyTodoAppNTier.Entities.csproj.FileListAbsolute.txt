@@ -1,0 +1,12 @@
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\bin\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.deps.json
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\bin\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.dll
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\bin\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.pdb
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.csproj.AssemblyReference.cache
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.AssemblyInfoInputs.cache
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.AssemblyInfo.cs
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.dll
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\refint\Ua.UdemyTodoAppNTier.Entities.dll
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\Ua.UdemyTodoAppNTier.Entities.pdb
+C:\Users\Umut\Documents\GitHub\ASP.NETCORE5.0UDEMYLEARN\UA.UdemyTodoAppNTier\Ua.UdemyTodoAppNTier.Entities\obj\Debug\net5.0\ref\Ua.UdemyTodoAppNTier.Entities.dll
